@@ -1,0 +1,42 @@
+{
+  "fad7451a4eafd62d9e037f1edae02fd1.pdf": {
+    "hash": "0975f843f5e0269e8635cb4ad1c9fc57",
+    "ocr_version": "v4",
+    "processed_at": "2025-10-31T23:33:25.737619",
+    "classification": {
+      "type": "上市手册",
+      "confidence": 0.97
+    },
+    "ocr_pages": 0
+  },
+  "H2_AN201806191157048326_1.pdf": {
+    "hash": "dd31463556a9a8c38d869f4c4c09dec5",
+    "ocr_version": "v4",
+    "processed_at": "2025-10-31T23:33:59.888696",
+    "classification": {
+      "type": "审计报告",
+      "confidence": 0.95
+    },
+    "ocr_pages": 0
+  },
+  "wKh2AmE3cVKAcunKABEmGgN5rBQ699.pdf": {
+    "hash": "c616fbde900559f694023ce89b3017aa",
+    "ocr_version": "v4",
+    "processed_at": "2025-10-31T23:35:23.956254",
+    "classification": {
+      "type": "行业报告",
+      "confidence": 0.98
+    },
+    "ocr_pages": 9
+  },
+  "国信(香港)：伟易达(303 HK) 首发报告.pdf": {
+    "hash": "02bca1901118b7188dbe8832a3d0739e",
+    "ocr_version": "v4",
+    "processed_at": "2025-10-31T23:35:26.763686",
+    "classification": {
+      "type": "公司研究报告",
+      "confidence": 0.96
+    },
+    "ocr_pages": 0
+  }
+}

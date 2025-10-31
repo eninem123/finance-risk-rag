@@ -1,0 +1,62 @@
+{
+  "audit_opinion": {
+    "keywords": ["無保留意見", "保留意見", "否定意見", "無法表示意見", "unqualified opinion", "qualified opinion", "clean opinion"],
+    "risk_score": 20,
+    "description": "审计意见"
+  },
+  "credit_rating": {
+    "keywords": ["AAA", "AA", "A", "BBB", "BB", "B", "CCC", "Moodys", "S&P", "Fitch", "Ba3", "投资级", "垃圾级"],
+    "risk_score": 25,
+    "description": "信用评级"
+  },
+  "related_transaction": {
+    "keywords": ["关联交易", "關聯方", "related party", "未披露", "重大关联", "HKD", "关联方交易", "关联企业"],
+    "risk_score": 15,
+    "description": "关联交易"
+  },
+  "contingent_liability": {
+    "keywords": ["或有負債", "contingent liability", "訴訟", "诉讼", "诉讼风险", "潜在负债"],
+    "risk_score": 30,
+    "description": "或有负债"
+  },
+  "liquidity_risk": {
+    "keywords": ["流動性風險", "liquidity risk", "現金流", "cash flow", "流动性不足", "短期偿债"],
+    "risk_score": 10,
+    "description": "流动性风险"
+  },
+  "ifrs9": {
+    "keywords": ["IFRS9", "國際財務報告準則第9號", "减值", "expected credit loss", "预期信用损失"],
+    "risk_score": 5,
+    "description": "IFRS9 相关"
+  },
+  "operational_risk": {
+    "keywords": ["运营风险", "operational risk", "内部控制", "合规", "运营失误"],
+    "risk_score": 15,
+    "description": "运营风险"
+  },
+  "market_risk": {
+    "keywords": ["市场风险", "market risk", "外汇风险", "汇率波动", "利率风险"],
+    "risk_score": 20,
+    "description": "市场风险"
+  },
+  "credit_risk": {
+    "keywords": ["信用风险", "credit risk", "逾期", "坏账", "违约"],
+    "risk_score": 25,
+    "description": "信用风险"
+  },
+  "financial_note": {
+    "keywords": ["财务报表附注", "notes to financial statements", "重大事项", "重要事项"],
+    "risk_score": 10,
+    "description": "财务报表附注"
+  },
+  "going_concern": {
+    "keywords": ["持续经营", "going concern", "破产风险", "持续经营假设"],
+    "risk_score": 30,
+    "description": "持续经营假设"
+  },
+  "regulatory_compliance": {
+    "keywords": ["合规审计", "regulatory compliance", "香港金管局", "PCAOB", "HFCAA"],
+    "risk_score": 20,
+    "description": "监管合规"
+  }
+}

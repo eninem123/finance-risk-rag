@@ -1,0 +1,98 @@
+{
+  "extracted_at": "2025-11-01T00:28:27.567148",
+  "total_entities": 10,
+  "total_risk_score": 200,
+  "risk_level": "高风险",
+  "entities": [
+    {
+      "type": "audit_opinion",
+      "text": "qualified opinion",
+      "start": 74510,
+      "context": "即公告其季度财务报表，公告时间不得迟于该季度 结束后 45天： (a) its auditor expresses an adverse opinion, a qualified opinion or a disclaimer of opinion on the latest financial statements of the SGX Main B",
+      "confidence": 0.92,
+      "risk_score": 20,
+      "description": "审计意见"
+    },
+    {
+      "type": "credit_rating",
+      "text": "ratinga",
+      "start": 20143,
+      "context": "rating results a",
+      "confidence": 0.96,
+      "risk_score": 25,
+      "description": "信用评级"
+    },
+    {
+      "type": "related_transaction",
+      "text": "关联交易",
+      "start": 1291,
+      "context": "repurchases, and restrictions on publicity. 本手册详细探讨了上述交易所的上市规则，涵盖常规披露、交易审批和披露、 关联交易、重要非公开信息披露、主要股东、董事和监事的交易活动、上市后 股份激励计划、股份回购及宣传限制等关键领域。 Furthermore, this handbook",
+      "confidence": 0.92,
+      "risk_score": 15,
+      "description": "关联交易"
+    },
+    {
+      "type": "contingent_liability",
+      "text": "诉讼",
+      "start": 889847,
+      "context": "月31日止年度的合并财务报表附注 附注18 准备金和其他非金融负债（续） 18.3 准备金的变动 法律 其他 截至2017年12月31日，导致变化的项目的描述 诉讼 拆除、修复和恢复成本准备 准备金 合计 准备金总额，期初余额 千美元 金 千美元 千美元 千美元 23,867 5,890 21,089 50,846 准备金",
+      "confidence": 0.92,
+      "risk_score": 30,
+      "description": "或有负债"
+    },
+    {
+      "type": "liquidity_risk",
+      "text": "现金储备460亿",
+      "start": 957755,
+      "context": "现金储备已经达到约 460 亿",
+      "confidence": 0.96,
+      "risk_score": 10,
+      "description": "流动性风险"
+    },
+    {
+      "type": "ifrs9",
+      "text": "减值",
+      "start": 864282,
+      "context": "期初余额 - 23,280 1,483 98,596 3,337 37,972 164,668 本年购买 - 939 8 - 204 6,205 7,356 减值 - - - （205） - - （205） 转让的增加（减少） - - - - （1,164） - （1,164） 其他增加（减少） - 841 （241）",
+      "confidence": 0.92,
+      "risk_score": 5,
+      "description": "IFRS9 相关"
+    },
+    {
+      "type": "market_risk",
+      "text": "市场风险",
+      "start": 67439,
+      "context": "者能够在评估美国本土企业股票的同时评估对于外 国公司的投资。因此，20-F 表格的披露内容与对美国本土发行人要求的 披露内容非常相似，比如要求报告关键运营细节、市场风险、公司治理 和财务报表等信息，其中年度财务报表的具体内容和要求包括： (1) financial statements shall be provided fo",
+      "confidence": 0.92,
+      "risk_score": 20,
+      "description": "市场风险"
+    },
+    {
+      "type": "credit_risk",
+      "text": "信用风险",
+      "start": 782592,
+      "context": "sqm.com 56 --- Page 57 (Text) --- 截至2017年12月31日止年度的合并财务报表附注 附注4 财务风险管理（续） 4.2.2 信用风险 全球经济萎缩以及客户财务状况的潜在不利影响可能会延长SQM的应收款回收期，增加其面临的可疑账户风险。尽 管已采取措施尽可能减少此类风险，全球经济形势可能会导致",
+      "confidence": 0.92,
+      "risk_score": 25,
+      "description": "信用风险"
+    },
+    {
+      "type": "going_concern",
+      "text": "going concern",
+      "start": 74748,
+      "context": "；或 (b) its auditor expresses a view that a material uncertainty that affect the going concern exists in the SGX Main Board listed company’s latest financial statements. 其审计师",
+      "confidence": 0.92,
+      "risk_score": 30,
+      "description": "持续经营假设"
+    },
+    {
+      "type": "regulatory_compliance",
+      "text": "PCAOB",
+      "start": 1603,
+      "context": "dards and oversight processes of the Public Company Accounting Oversight Board (PCAOB). These elements are essential for China-based companies listed in the United S",
+      "confidence": 0.92,
+      "risk_score": 20,
+      "description": "监管合规"
+    }
+  ]
+}
